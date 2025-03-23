@@ -21,6 +21,7 @@ Currently, I am working on the Elkapod walking robot project as part of the Bion
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)  
 
+<!---
 # GitHub statistics:
 ![](https://github-readme-stats.vercel.app/api?username=psienkie&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=psienkie&theme=dark&hide_border=false)<br/>
@@ -28,4 +29,5 @@ Currently, I am working on the Elkapod walking robot project as part of the Bion
 
 ---
 [![](https://visitcount.itsvg.in/api?id=psienkie&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
