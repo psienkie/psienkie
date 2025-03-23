@@ -19,7 +19,9 @@ Currently, I am working on the Elkapod walking robot project as part of the Bion
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Fusion 360](https://img.shields.io/badge/Fusion_360-%23F77F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-%23A43731.svg?style=for-the-badge&logo=analogdevices&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%230073c7.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 <!---
 # GitHub statistics:
